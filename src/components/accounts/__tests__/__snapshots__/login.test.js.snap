@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`login page should render correctly 1`] = `
+<p
+  className="example-div"
+>
+  Welcome to the Login Page
+   
+  <Link
+    replace={false}
+    style={
+      Object {
+        "color": "#79ad6f",
+        "textDecoration": "none",
+      }
+    }
+    to="/register"
+  >
+     
+    Register Here
+  </Link>
+</p>
+`;
